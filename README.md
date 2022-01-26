@@ -30,7 +30,7 @@
  
   Your goal here is to create a simple application that will be a Trivia Game. 
   
- Your game must receive from an external API 10 true/false questions, present those questions from users, hold users' answers and then show the result of the end game.
+ Your game must receive from an external API 10 true/false questions, present those questions for users, store users' answers and then show the result of the end game.
  
   We want to see how you structure your code and the solutions you use to each challenge you will face.
 
