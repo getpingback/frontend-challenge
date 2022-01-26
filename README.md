@@ -90,35 +90,34 @@ Your application must have at least 3 basic screens:
  - This screen will present each one of the 10 questions.
  - It must have the index of each question
  - It must have the category of each question
- - It must have two buttons that user will input the answer.
- - It must have a timmer that will show how much time user have used since the begging of the first question.
- - When the answer is inputed by the user, the application must show if its right or not and go to the next question.
+ - It must have two buttons that the user will input the answer.
+ - It must have a timmer that will show how much time users have used since the begging of the first question.
+ - When the answer is input by the user, the application must show if it is right or not and go to the next question.
 
 
 3) Result Screen
 
 |---------------------------------|
-|                                 |
-|             Result              |
-|   1) True                       |
-|   2) False                      |
-|   3) True                       |
-|   4) True                       |
-|   5) False                      |
-|   6) False                      |
-|   7) False                      |
-|   8) True                       |
-|   9) False                      |
-|   10) True                      |
-|                                 |
-|         You Scored 3/10         |
-|                                 |
-|            Play Again           |
+|'''''''''''''''''''''''''''''''''|
+|'''''''''''''Result''''''''''''''|
+|'''1)'True'''''''''''''''''''''''|
+|'''2)'False''''''''''''''''''''''|
+|'''3)'True'''''''''''''''''''''''|
+|'''4)'True'''''''''''''''''''''''|
+|'''5)'False''''''''''''''''''''''|
+|'''6)'False''''''''''''''''''''''|
+|'''7)'False''''''''''''''''''''''|
+|'''8)'True'''''''''''''''''''''''|
+|'''9)'False''''''''''''''''''''''|
+|'''10)'True''''''''''''''''''''''|
+|'''''''''''''''''''''''''''''''''|
+|'''''''''You'Scored'3/10'''''''''|
+|'''''''''''''''''''''''''''''''''|
+|''''''''''''Play'Again'''''''''''|
 |---------------------------------|
 
 - This screen will present the result of the trivia game
-- It must have all questions listed and if the user choosed the correct or incorrect answer (use colors red and green for that)
+- It must have all questions listed and if the user chose the correct or incorrect answer (use colors red and green for that)
 - It must have the score
 - It must have a button that will lead the user to the first welcome screen
 - It must have the total time played in minutes.
-                                       
