@@ -34,7 +34,7 @@
 
 # Api
 
-You must use https://opentdb.com/ as API for getting the Trivia Questions. Be aware that the documentation for using this API is in the provided link and that you need to receive 10 questions for each request these questions should only be true/false and have a pre-setted difficulty.
+You must use https://opentdb.com/ as API for getting the trivia questions. Be aware that the documentation for using this API is in the provided link and that you need to receive 10 questions for each request, these questions should only be true/false and have a pre-setted difficulty.
 
 # Screens
 
@@ -42,6 +42,8 @@ Your application must have at least 3 basic screens:
 
 1) Start Game Screen
 
+```
+<pre>
 |---------------------------------|
 |                                 |
 |             Welcome             |
@@ -60,11 +62,15 @@ Your application must have at least 3 basic screens:
 |                                 |
 |             START               |
 |---------------------------------|
+</pre>
+```
 
  - This screen must have an intro screen that user will understand the game and will start it.
 
 2) Questions Screen
 
+```
+<pre>
 |---------------------------------|
 |       Question X of 10          |
 |                                 |
@@ -86,6 +92,8 @@ Your application must have at least 3 basic screens:
 |                                 |
 |             01:22               |
 |---------------------------------|
+</pre>
+```
 
  - This screen will present each one of the 10 questions.
  - It must have the index of each question
@@ -97,6 +105,8 @@ Your application must have at least 3 basic screens:
 
 3) Result Screen
 
+```
+<pre>
 |---------------------------------|
 |                                 |
 |             Result              |
@@ -115,6 +125,8 @@ Your application must have at least 3 basic screens:
 |                                 |
 |            Play Again           |
 |---------------------------------|
+</pre>
+```
 
 - This screen will present the result of the trivia game
 - It must have all questions listed and if the user chose the correct or incorrect answer (use colors red and green for that)
