@@ -43,7 +43,6 @@ Your application must have at least 3 basic screens:
 1) Start Game Screen
 
 ```
-<pre>
 |---------------------------------|
 |                                 |
 |             Welcome             |
@@ -62,7 +61,6 @@ Your application must have at least 3 basic screens:
 |                                 |
 |             START               |
 |---------------------------------|
-</pre>
 ```
 
  - This screen must have an intro screen that user will understand the game and will start it.
@@ -70,7 +68,6 @@ Your application must have at least 3 basic screens:
 2) Questions Screen
 
 ```
-<pre>
 |---------------------------------|
 |       Question X of 10          |
 |                                 |
@@ -92,7 +89,6 @@ Your application must have at least 3 basic screens:
 |                                 |
 |             01:22               |
 |---------------------------------|
-</pre>
 ```
 
  - This screen will present each one of the 10 questions.
@@ -106,7 +102,6 @@ Your application must have at least 3 basic screens:
 3) Result Screen
 
 ```
-<pre>
 |---------------------------------|
 |                                 |
 |             Result              |
@@ -125,7 +120,6 @@ Your application must have at least 3 basic screens:
 |                                 |
 |            Play Again           |
 |---------------------------------|
-</pre>
 ```
 
 - This screen will present the result of the trivia game
