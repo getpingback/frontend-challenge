@@ -142,7 +142,7 @@ Your application must have at least 3 basic screens:
  
   If you are using Reactjs you application must build and run server. If you are using React Native your application must run MetroJs and work with Android or IOS Simulator (IOS is better).
   
-  The application code will be reviewed and scored on these key areas with many subset areas for each:
+  The application code will be reviewed keeping the following criterias:
 
  - Functionality
  - Project Structure
