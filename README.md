@@ -24,7 +24,7 @@
 
   - **Tests**</br>
    You must implement some tests in your application. Those tests should run when the command `npm test` is prompted.
-    We recommend you to use jest and maybe cypress. (But be free to use whatever you like).
+    We recommend you to use jest and maybe cypress. (Be free to use whatever you like).
 
 # Your Goal
  
