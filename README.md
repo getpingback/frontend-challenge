@@ -17,6 +17,7 @@
    
   - **React Native**</br>
    If you are applying for a React Native role, we expect you to use Styled Component for styling your app. 
+   You are not allowed to use EXPO!
 
   - **Storage**</br>
    It's required to use Redux, using hooks, and using Thunk as an async middleware.
@@ -128,3 +129,26 @@ Your application must have at least 3 basic screens:
 - It must have the score
 - It must have a button that will lead the user to the first welcome screen
 - It must have the total time played in minutes.
+
+# UI/UX
+
+ Be free to give your style to the project, use your imagination, we won't review it but it would be great if the application has some care in the design.
+ 
+# How to apply your code
+
+ When your task is done please create a repo inside your Github account, this repo must be public. Send the repo URL via e-mail to tech@getpingback.com.
+ 
+ # How your code will be reviewed.
+ 
+  If you are using Reactjs you application must build and run server. If you are using React Native your application must run MetroJs and work with Android or IOS Simulator (IOS is better).
+  
+  The application code will be reviewed and scored on these key areas with many subset areas for each:
+
+ - Functionality
+ - Project Structure
+ - Maintainability
+ - Use of best practices
+ - Domain of Javascript
+
+--- 
+© 2021 Pingback International. Please do not share or use this test without Pingback's permission. This work is protected by copyrights held by Pingback International. The project can't be duplicated or used (even small parts of it) without the prior consent of Pingback International.
