@@ -15,17 +15,15 @@
   -  **ReactJs** </br>
    If you are applying for a Reactjs role, we expect you to use SASS for styling your app.
    
-  - **React Native**
+  - **React Native**</br>
    If you are applying for a React Native role, we expect you to use Styled Component for styling your app. 
 
-  - **Storage**
+  - **Storage**</br>
+   It's required to use Redux, using hooks, and using Thunk as an async middleware.
 
- It's required to use Redux, using hooks, and using Thunk as an async middleware.
-
-  - **Tests**
- 
- You must implement some tests in your application. Those tests should run when the command `npm test` is prompted.
- We recommend you to use jest and maybe cypress. (But be free to use whatever you like).
+  - **Tests**</br>
+   You must implement some tests in your application. Those tests should run when the command `npm test` is prompted.
+    We recommend you to use jest and maybe cypress. (But be free to use whatever you like).
 
 # Your Goal
  
