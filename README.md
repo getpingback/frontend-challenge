@@ -3,10 +3,10 @@
 
 # React Js and React Native Challenge
 
-  Hey, thanks for your interest in working with us. Before we continue your application we need to check if you can handle things here in Pingback.
+  Hey, thanks for your interest in working with us. Before we continue your application we need to check if you can handle some skilss.
   We know that's boring and it sucks, but it allow us to create a team that really can collaborate. 
   
-  So if you are here, we need to check some skills ok? Let's do It!
+  So if you are here, we need to check some of your skills ok? Let's do It!
   
 # What are we looking for?
   
