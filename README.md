@@ -12,7 +12,7 @@
   
   First, we need you to know that you have a domain of Javascript and ReactJs/React Native. It's important to remember that our entire culture is based on Clean Code, so, be aware that we will expect that your code is well written and well documented, ok?
   
-  -  **ReactJs**
+  -  **ReactJs** </br>
    If you are applying for a Reactjs role, we expect you to use SASS for styling your app.
    
   - **React Native**
